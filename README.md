@@ -1,5 +1,4 @@
-# Project22_HS_microlocalizacao
+# iBeacon-Notification
 
-Desenvolvimento de um projeto que possui uma enorme gama de possibilidades. Quase qualquer local físico – de um escritório a um armazém, de uma escola a um museu – pode se beneficiar do acionamento de comportamentos no dispositivo do usuário enquanto ele se movimenta: Micro-localização; Core Location; CLBeaconRegion; Detect-a-Beacon.
+This project added on https://github.com/maiconlmotadev/Project22_HS_microlocalizacao where now you can only update by change and send local notification to user upon connecting.
 
-App: iOS; Usei: Xcode e Swift
