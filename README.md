@@ -1,4 +1,5 @@
 # iBeacon-Notification
 
-This project added on https://github.com/maiconlmotadev/Project22_HS_microlocalizacao where now you can only update by change and send local notification to user upon connecting.
+This project extended on https://github.com/maiconlmotadev/Project22_HS_microlocalizacao 
+Now you will get live distance changes, and get local notification upon connecting to new iBeacon sensor and changes.
 
